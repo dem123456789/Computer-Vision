@@ -1,0 +1,3 @@
+run dots_main.m and miko_main.m
+edit VLFEATROOT for VL_feat in getDatafromSIFT.m
+Images are generated with high dpi. Totally they may cost about 300MB space.
