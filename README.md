@@ -5,7 +5,7 @@ Computer Vision projects involving Basic topics from Projective Geometry, Image 
 
 1. This Project is originally from CS 283 in Harvard
 2. This Project involves topics like Projective Geometry, Cameras, Epipolar, Factorization, Image Processing, and Image Recognition
-3. Final Project is a generalization of Inverted RANSAC
+3. Final Project is a generalization of Inverting RANSAC from a bayesian probabilistic view point.
 
 ## Contributing
 
